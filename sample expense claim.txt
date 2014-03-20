@@ -1,0 +1,9 @@
+Expense claim
+
+Date: 
+Name: 
+Total claimed: £x
+
+Items:
+
+- date/ description / receipt file name / value
